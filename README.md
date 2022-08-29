@@ -39,7 +39,12 @@ I am a poet, creative writer, proofreader, budding engineer and developer. I lov
   <summary><h3>Latest Hashnode Articles</h3></summary>
   
   <!-- Post From Hashnode:START -->
-  <!-- Post From Hashnode:END -->
+- [ECX 30 Day of Code and Design](https://thecodingprocess.hashnode.dev/ecx-30-day-of-code-and-design)
+- [Timed Mental Maths Game](https://thecodingprocess.hashnode.dev/timed-mental-maths-game)
+- [Creating a Sudoku Solver Using Python](https://thecodingprocess.hashnode.dev/creating-a-sudoku-solver-using-python)
+- [Creating a GPA Calculator Using Python](https://thecodingprocess.hashnode.dev/creating-a-gpa-calculator-using-python)
+- [Binary Search Algorithm in Python](https://thecodingprocess.hashnode.dev/binary-search-algorithm-in-python)
+<!-- Post From Hashnode:END -->
   
 </details>
 
