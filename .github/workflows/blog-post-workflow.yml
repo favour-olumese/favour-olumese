@@ -1,4 +1,4 @@
-name: Latest hashnode blog post workflow
+name: Latest Hashnode blog post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 0 * * *' # Runs every 12 midnight.
@@ -9,11 +9,9 @@ jobs:
     name: Update this repo's README with latest hashnode blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in https://thecodingprocess.hashnode.dev posts
+      - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "Post From Hahnode"
+          comment_tag_name: "Post From Hashnode"
           commit_message: "Updated readme with the latest Hashnode blog posts."
           feed_list: "https://thecodingprocess.hashnode.dev/rss.xml"
