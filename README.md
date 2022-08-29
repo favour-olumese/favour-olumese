@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a poet, creative writer, proofreader, budding engineer and developer. I love learning, unlearning, and relearning. I look forward to adding value to all I come across and being of impact.
+I am a poet, creative writer, proofreader, budding engineer and developer. I love learning, unlearning, and relearning. I look forward to being of value wherever I find myself. Let's talk about writing, Python, open source, and impact. 🙂
 <details>
-  <summary><h2>Languages & Technologies I Use</h2></summary>
+  <summary><h3>Languages & Tools</h3></summary>
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -28,9 +28,29 @@ I am a poet, creative writer, proofreader, budding engineer and developer. I lov
   
 </details>
 <details>
-  <summary><h2>GitHub Stats</h2></summary>
+  <summary><h3>GitHub Stats</h3></summary>
   
   ![Favour Olumese's GitHub stats](https://github-readme-stats.vercel.app/api?username=favour-olumese&count_private=true&show_icons=true&theme=radical)
   ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=favour-olumese&layout=compact&theme=radical)
   
 </details>
+
+<details>
+  <summary><h3>Latest Hashnode Articles</h3></summary>
+  
+  <!-- HASNODE:START -->
+  <!-- HASHNODE:END -->
+  
+</details>
+
+<details open>
+  <summary><h3>Let's talk about impact</h3></summary>
+  
+  <a href="mailto:olumesefavor@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/favourolumese">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://thecodingprocess.hashnode.dev/">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
+  <a href="https://favourolumese.medium.com/">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+  
+</details>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=League+Gothic&pause=1000&center=true&width=435&lines=Bonne+Journee+%3A-)" alt="Bonne Journee :-)" />
