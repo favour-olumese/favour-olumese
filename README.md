@@ -42,11 +42,11 @@ I am a poet, creative writer, proofreader, budding engineer and developer. I lov
   <summary><h3>Latest Hashnode Articles</h3></summary>
   
   <!-- Post From Hashnode:START -->
+- [Getting Started with Wolfram Mathematica](https://thecodingprocess.hashnode.dev/getting-started-with-wolfram-mathematica)
 - [Deploying a Django Project on alwaysdata](https://thecodingprocess.hashnode.dev/deploying-a-django-project-on-alwaysdata)
 - [ECX 30 Day of Code and Design](https://thecodingprocess.hashnode.dev/ecx-30-day-of-code-and-design)
 - [Timed Mental Maths Game](https://thecodingprocess.hashnode.dev/timed-mental-maths-game)
 - [Creating a Sudoku Solver Using Python](https://thecodingprocess.hashnode.dev/creating-a-sudoku-solver-using-python)
-- [Creating a GPA Calculator Using Python](https://thecodingprocess.hashnode.dev/creating-a-gpa-calculator-using-python)
 <!-- Post From Hashnode:END -->
   
 </details>
