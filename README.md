@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a poet, creative writer, proofreader, budding engineer and developer. I love learning, unlearning, and relearning. I look forward to being of value wherever I find myself. Let's talk about writing, Python, open source, and impact. 🙂
+<!-- I am a poet, creative writer, proofreader, budding engineer and developer. I love learning, unlearning, and relearning. I look forward to being of value wherever I find myself. Let's talk about writing, Python, open source, and impact. 🙂 -->
+
+Glad to have you here. To be brief, I am a Python enthusiast (I love the Python programming language). I am currently learning and building projects with the Django framework. When I am not coding, I am probably reading or writing. I love writing. You could read some of my technical articles on [Hashnode](https://thecodingprocess.hashnode.dev/) or my poems and other motivational writeups on [medium](https://favourolumese.medium.com/).
+
+Feel free to reach out to me on all things Python, Django, open source, and technical writing. Have a blessed day. Au revoir 👋.
+
 <details>
   <summary><h3>Languages & Tools</h3></summary>
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
