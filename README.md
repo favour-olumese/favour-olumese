@@ -39,9 +39,10 @@ Feel free to reach out to me on all things Python, Django, open source, and tech
 <details>
   <summary><h3>GitHub Stats</h3></summary>
   
-  ![Favour Olumese's GitHub stats](https://github-readme-stats.vercel.app/api?username=favour-olumese&count_private=true&show_icons=true&theme=radical)
-  ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=favour-olumese&layout=compact&theme=radical)
-  
+<!--   ![Favour Olumese's GitHub stats](https://github-readme-stats.vercel.app/api?username=favour-olumese&count_private=true&show_icons=true&theme=radical)
+  ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=favour-olumese&layout=compact&theme=radical) -->
+  ![Favour Olumese's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=favour-olumese&theme=github_dark)
+  ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=favour-olumese&theme=github_dark)
 </details>
 
 <details>
