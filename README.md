@@ -49,11 +49,11 @@ Feel free to reach out to me on all things Python, Django, open source, and tech
   <summary><h3>Latest Hashnode Articles</h3></summary>
   
   <!-- Post From Hashnode:START -->
+- [Starting a Django Application](https://thecodingprocess.hashnode.dev/starting-a-django-application)
+- [Getting Started with Django](https://thecodingprocess.hashnode.dev/getting-started-with-django)
 - [Using django-environ to Create Environment Variables in Django Project](https://thecodingprocess.hashnode.dev/using-django-environ-to-create-environment-variables-in-django-project)
 - [Getting Started with Wolfram Mathematica](https://thecodingprocess.hashnode.dev/getting-started-with-wolfram-mathematica)
 - [Deploying a Django Project on alwaysdata](https://thecodingprocess.hashnode.dev/deploying-a-django-project-on-alwaysdata)
-- [ECX 30 Day of Code and Design](https://thecodingprocess.hashnode.dev/ecx-30-day-of-code-and-design)
-- [Timed Mental Maths Game](https://thecodingprocess.hashnode.dev/timed-mental-maths-game)
 <!-- Post From Hashnode:END -->
   
 </details>
