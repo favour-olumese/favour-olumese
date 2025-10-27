@@ -14,19 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- I am a poet, creative writer, proofreader, budding engineer and developer. I love learning, unlearning, and relearning. I look forward to being of value wherever I find myself. Let's talk about writing, Python, open source, and impact. 🙂 -->
 
-Glad to have you here. To be brief, I am a Python enthusiast (I love the Python programming language). I am currently learning and building projects with the Django framework. When I am not coding, I am probably reading or writing. I love writing. You could read some of my technical articles on [Hashnode](https://thecodingprocess.hashnode.dev/) or my poems and other motivational writeups on [medium](https://favourolumese.medium.com/).
+Glad to have you here. I am a backend engineer and a Python enthusiast (I love the Python programming language). I build projects with **Django framework**, **Django REST framework**, **Go**, and the **Gin framework**. When I am not coding, I am probably reading or writing. I love writing. You could read some of my technical articles on [Hashnode](https://thecodingprocess.hashnode.dev/) or my poems and other motivational writeups on [Medium](https://favourolumese.medium.com/).
 
-Feel free to reach out to me on all things Python, Django, open source, and technical writing. Have a blessed day. Au revoir 👋.
+Feel free to reach out to me on all things **Python**, **Django**, **Django REST framework**, **Go**, **Gin**, **open source**, and **technical writing**.
+Have a blessed day. Au revoir 👋.
 
 <details>
   <summary><h3>Languages & Tools</h3></summary>
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![DRF](https://img.shields.io/badge/-Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
