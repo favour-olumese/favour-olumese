@@ -3,7 +3,7 @@
 Backend engineer • Python & Django enthusiast • Go (Gin) developer
 
 I'm a backend engineer who builds reliable, maintainable APIs and systems. I enjoy solving problems with code — especially using **Django**, **Django REST Framework**, and **Go (Gin)**. I also write technical articles, and motivational pieces.  
-Check out my [portfolio](https://favourolumese.lovable.app/).
+Check out my [portfolio](https://favourolumese.netlify.app/).
 
 ---
 
@@ -48,7 +48,7 @@ Check out my [portfolio](https://favourolumese.lovable.app/).
 
 ## Let’s talk
 
-* 💻 Portfolio: [https://favourolumese.lovable.app/](https://favourolumese.lovable.app/)
+* 💻 Portfolio: [https://favourolumese.netlify.app/](https://favourolumese.netlify.app/)
 * ✉️ Email: [olumesefavor@gmail.com](mailto:olumesefavor@gmail.com)
 * 🔗 LinkedIn: [https://www.linkedin.com/in/favourolumese](https://www.linkedin.com/in/favourolumese)
 * 📝 Medium: [https://favourolumese.medium.com/](https://favourolumese.medium.com/)
